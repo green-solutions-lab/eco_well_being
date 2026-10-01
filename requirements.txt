@@ -1,0 +1,10 @@
+pandas
+openpyxl
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+nltk
+pymorphy3
+openai
